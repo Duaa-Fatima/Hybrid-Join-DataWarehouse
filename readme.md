@@ -37,5 +37,4 @@ Suggest new features or improvements.
 **Contact Information:**
 For any inquiries or support, feel free to contact:
 
-[i211667@nu.edu.pk]
-[https://www.linkedin.com/in/duaa-fatima-3b03ab260/]
+
